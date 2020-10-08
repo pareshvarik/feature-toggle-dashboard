@@ -1,0 +1,10 @@
+{
+  "Settings": {
+    "FontSize": "24",
+    "UseDefaultRouting": "false",
+    "SideNavigationBar":{"description": "Hide sidebar navigation bar","show": "false"},
+    "Dashboard": {"description": " Dashboard toggle feature properties","bgcolor": "#85988E", "controls":"false" ,"gallary":"true"},
+    "Features": {"description":"Dont allow search for normal users","search": "true"},
+    "Services": {"description":"Fetch APIs data based on toggle option","fetchdata": "true", "showMoreDetails":"false"}
+  }
+}
